@@ -1,6 +1,6 @@
 
 # Supervised Learning
-## Project: Finding Donors for CharityML
+## Project: Finding Possible Donors for CharityML
 
 ### Install
 
